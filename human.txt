@@ -1,13 +1,13 @@
 /* TEAM */
 
-Site: http://www.tisal.cl
-Web Development: Marco Celis Riquelme
-Web Design: Marco Celis Riquelme
-Front End: Marco Celis Riquelme
+Site: http://
+Web Development: 
+Web Design: 
+Front End: 
 
 
 
 /* SITE */
 
-Last update: 26/08/2013
+Last update: 19/03/2018
 Language: Spanish.
